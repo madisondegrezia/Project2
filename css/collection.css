@@ -1,0 +1,12 @@
+.hero {
+background-image: url(/images/sweatshirts.png);
+background-size: cover;
+}
+
+.h-50vh {
+    height: 50vh;
+}
+
+.pfont {
+    font-family: 'Architects Daughter', cursive;
+}

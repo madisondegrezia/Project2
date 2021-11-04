@@ -1,0 +1,26 @@
+.photo {
+    width: 120px;
+    padding: 5px; 
+}
+
+figure {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 100px;
+}
+
+figure img {
+    width: 200px;
+    border: 1px solid #d6d6d6;
+}
+
+.col-25 {
+    -ms-flex: 25%; 
+    flex: 25%;
+  }
+
+body {
+    background-color: rgb(110, 219, 255);
+  }
+ 

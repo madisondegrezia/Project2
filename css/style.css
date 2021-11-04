@@ -1,0 +1,18 @@
+.font {
+    font-family: 'Abel', sans-serif;
+    font-family: 'Rampart One', cursive;
+    font-size: 26px;
+}
+
+.hero {
+    background-image: url(/images/shirt.png);
+    background-size: cover;
+}
+
+.h-50vh {
+    height: 50vh;
+}
+
+.btn:hover {
+    background-color:lightgrey;
+  }
